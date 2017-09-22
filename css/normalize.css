@@ -23,13 +23,7 @@ html {
  */
 
 body {
-	margin: 0;
-	    background-color: #b3ccba;
-			font-size: 1em;
-			width: 335px;
-			margin: auto;
-			color:#3a3d3b;
-			line-height: 1.6em;
+  margin: 0;
 }
 
 /**
